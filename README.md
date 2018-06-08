@@ -1,5 +1,7 @@
 # homework-4-js
 
+## Important: You shouldn't use global variables
+
 #### 1) Write `largest` and `smallest` functions that returns the largest and smallest number passed like a argument.
 
 ##### Example:
