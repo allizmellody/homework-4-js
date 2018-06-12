@@ -1,0 +1,15 @@
+{
+  "name": "homework-4",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "mocha ./src/*.spec.js*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lessarea/homework-4-js.git"
+  },
+  "author": "Diana Garbuzova",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
